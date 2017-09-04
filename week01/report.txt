@@ -1,0 +1,3 @@
+#Rayhan_Naufal_Hendry
+
+In week 1, we learn about some of the functions in git such as cloning repository. We were also introduced to git, CLI, scripting, push and pull repository.
